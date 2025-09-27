@@ -22,7 +22,7 @@ The list is sorted by **established date** and divided into three categories:
 |-------|-----|-----|----------------|-------|
 | DNForum | [DNForum.com](https://www.dnforum.com/) | 2001 | General | Part of No Stress Ltd family |
 | ConsultDomain.de | [ConsultDomain.de](https://www.consultdomain.de/) | 2001 | German-speaking market (Germany, Austria, Switzerland) | Part of No Stress Ltd family |
-| NamePros | [NamePros.com](https://www.namepros.com/) | 2002 | General | Owners unknown – Sr. Sales: ? |
+| NamePros | [NamePros.com](https://www.namepros.com/) | 2002 | General | Owners unknown – Sr. Sales: Brian Harbin, Grit.org |
 | Acorn Domains | [AcornDomains.co.uk](https://www.acorndomains.co.uk/) | 2004 | UK market | Part of No Stress Ltd family |
 | Nameslot.com | [NamesLot.com](https://www.nameslot.com) | 2004 | .com market | Part of No Stress Ltd family |
 | INForum | [INForum.in](https://www.inforum.in/) | 2007 | Indian market | .. |
