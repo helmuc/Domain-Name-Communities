@@ -28,6 +28,10 @@ The list is sorted by **established date** and divided into three categories:
 | NamePros | [namepros.com](https://www.namepros.com/) | 2002 | General | Owners unknown – Sr. Sales: Brian Harbin, Grit.org |
 | Acorn Domains | [acorndomains.co.uk](https://www.acorndomains.co.uk/) | 2004 | UK market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 | Nameslot | [nameslot.com](https://www.nameslot.com) | 2004 | .com market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
+| Di.pl – Domeny Internetowe | [di.pl](https://di.pl/) | 2005 | Polish market (.pl) | |
+| Demene | [demene.com](https://www.demene.com/) | 2006 | Spanish-language market | |
+| Domain Boardroom (DBR) | [domainboardroom.com](https://domainboardroom.com/) | 2007 | Private pro community | Invite-only |
+| IDNForums | [idnforums.com](https://www.idnforums.com/) | 2007 | Internationalized Domain Names (IDNs) | |
 | INForum | [inforum.in](https://www.inforum.in/) | 2007 | Indian market | .. |
 | DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | Australian market | Part of Trillion family |
 | ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | French market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
