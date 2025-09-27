@@ -20,16 +20,16 @@ The list is sorted by **established date** and divided into three categories:
 
 | Forum | URL | Est. | Specialization | Notes |
 |-------|-----|-----|----------------|-------|
-| [DNForum](https://www.dnforum.com/) | 2001 | General | Part of No Stress Ltd family |
-| [ConsultDomain.de](https://www.consultdomain.de/) | 2001 | German-speaking market (Germany, Austria, Switzerland) | Part of No Stress Ltd family |
-| [NamePros](https://www.namepros.com/) | 2002 | General | Owners unknown – Sr. Sales: ? |
-| [Acorn Domains](https://www.acorndomains.co.uk/) | 2004 | UK market | Part of No Stress Ltd family |
-| [NamesLot](https://www.nameslot.com) | 2004 | .com market | Part of No Stress Ltd family |
-| [INForum](https://www.inforum.in/) | 2007 | Indian market | .. |
-| [DNTrade](https://dntrade.com.au/) | 2008 | Australian market | Part of Trillion family |
-| [ForumNDD.com](https://www.forumndd.com/) | 2008 | French market | Part of No Stress Ltd family |
-| [DN.ca](https://dn.ca/) | 2020 | Canadian market | Owner: Frank (MapleDots) |
-| [27.be](https://www.27.be) | 2020 | Belgium / European market | Part of No Stress Ltd family |
+| DNForum | [DNForum.com](https://www.dnforum.com/) | 2001 | General | Part of No Stress Ltd family |
+| ConsultDomain.de | [ConsultDomain.de](https://www.consultdomain.de/) | 2001 | German-speaking market (Germany, Austria, Switzerland) | Part of No Stress Ltd family |
+| NamePros | [NamePros.com](https://www.namepros.com/) | 2002 | General | Owners unknown – Sr. Sales: ? |
+| Acorn Domains | [AcornDomains.co.uk](https://www.acorndomains.co.uk/) | 2004 | UK market | Part of No Stress Ltd family |
+| Nameslot.com | [NamesLot.com](https://www.nameslot.com) | 2004 | .com market | Part of No Stress Ltd family |
+| INForum | [INForum.in](https://www.inforum.in/) | 2007 | Indian market | .. |
+| DNTrade | [DNTrade.com.au](https://dntrade.com.au/) | 2008 | Australian market | Part of Trillion family |
+| ForumNDD | [ForumNDD.com](https://www.forumndd.com/) | 2008 | French market | Part of No Stress Ltd family |
+| DN.ca | [DN.ca](https://dn.ca/) | 2020 | Canadian market | Owner: Frank (MapleDots) |
+| 27.be | [27.be](https://www.27.be) | 2020 | Belgium / European market | Part of No Stress Ltd family |
 
 ---
 
@@ -37,7 +37,7 @@ The list is sorted by **established date** and divided into three categories:
 
 | Forum | URL | Est. | Specialization | Notes |
 |-------|-----|-----|----------------|-------|
-| [domainforum.ro](https://www.domainforum.ro) | 2024 | Romanian market | Part of No Stress Ltd family |
+| DomainForum.ro | [DomainForum.ro](https://www.domainforum.ro) | 2024 | Romanian market | Part of No Stress Ltd family |
 
 ---
 
@@ -45,7 +45,7 @@ The list is sorted by **established date** and divided into three categories:
 
 | Forum | URL | Est. | Specialization | Notes |
 |-------|-----|-----|----------------|-------|
-| [Domain Social](http://domainsocial.com/) | .. | General | Closed | .. |
+| Domain Social | [DomainSocial.com](http://domainsocial.com/) | 2006 | General | Closed | .. |
 
 ---
 
