@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-12-blue)
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-17-blue)
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-yellow)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)
