@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-12-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-17-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -37,6 +37,14 @@ The list is sorted by **established date** and divided into three categories:
 | ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | French market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 | DN.ca | [dn.ca](https://dn.ca/) | 2020 | Canadian market | Owner: Frank (MapleDots) |
 | 27.be | [27.be](https://www.27.be) | 2020 | Belgium / European market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
+
+---
+
+## Brand/Corporate Forums
+
+| Forum | URL | Est. | Specialization | Notes |
+|-------|-----|-----|----------------|-------|
+| DynaDot Community | [dynadot.com/forums](https://www.dynadot.com/forums) | 2024 | Forum for DynaDot users | Ownership: DynaDot |
 
 ---
 
