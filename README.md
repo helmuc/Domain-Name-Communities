@@ -1,80 +1,91 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-12-blue)  
-![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
-![Status](https://img.shields.io/badge/Status-Active-yellow)  
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
-![License: MIT](https://img.shields.io/badge/License-MIT-blue)  
-![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-12-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-yellow)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue)
+![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple)
+
+A community-maintained index of **domain name forums** around the world. These communities connect **investors, registrars, registries, brokers, developers, and entrepreneurs** to trade domains, share knowledge, and collaborate.
+
+👉 **Full list lives here:** [`Domain-Name-Forums-list.md`](Domain-Name-Forums-list.md)
 
 ---
 
-This repository contains a curated list of **domain name forums** from around the world.  
-These communities bring together **domain investors, registrars, registries, brokers, developers, and entrepreneurs** to discuss domain names, share industry knowledge, and trade digital assets.  
-
-The list is sorted by **established date** and divided into three categories:
-- **Active Forums** – currently running communities  
-- **Empty Startup Forums** – newly created forums with little to no activity yet  
-- **Dead / Closed Forums** – forums that no longer resolve or are inactive  
+## Table of Contents
+- [About](#about)
+- [What’s Inside](#whats-inside)
+- [Badges](#badges)
+- [How to Contribute](#how-to-contribute)
+- [Submission Template](#submission-template)
+- [Curation Rules](#curation-rules)
+- [License](#license)
+- [Credits](#credits)
 
 ---
 
-## Active Forums
+## About
+This repo focuses on **forums** (message-board style communities). Marketplaces, newsletters, Discord/Telegram groups, or one-off social groups aren’t included unless they have a persistent forum component.
 
-| Forum | URL | Est. | Specialization | Notes |
-|-------|-----|-----|----------------|-------|
+Lists in the full file are split into:
+- **Active Forums** – currently running communities
+- **Empty Startup Forums** – new forums with minimal activity
+- **Dead / Closed Forums** – no longer resolving or inactive
+
+All tables are sorted by **Est. year** (ascending) for quick historical context.
+
+---
+
+## What’s Inside
+- `Domain-Name-Forums-list.md` — the canonical list (tables sorted by **Est. year**).
+- `LICENSE` — MIT license.
+
+---
+
+## Badges
+Use Shields.io badges to keep things readable and consistent.
+
+**Top badges (already in this README):**
+- `![Forums Listed](https://img.shields.io/badge/Forums%20Listed-12-blue)`
+- `![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)`
+- `![Status](https://img.shields.io/badge/Status-Active-yellow)`
+- `![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)`
+- `![License: MIT](https://img.shields.io/badge/License-MIT-blue)`
+- `![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple)`
+
+**Inline badge for No Stress Ltd family forums**  
+(Place this in the _Notes_ column for eligible entries.)
+
+---
+
+
+---
+
+## How to Contribute
+Contributions are welcome! You can:
+1. **Open an Issue** with the forum details, or
+2. **Submit a Pull Request** editing `Domain-Name-Forums-list.md`.
+
+Please include (as applicable):
+- **Forum** name  
+- **URL** (canonical homepage)  
+- **Est.** year (use `..` if unknown)  
+- **Specialization** (market/ccTLD/language/focus)  
+- **Notes** (ownership, status, invite-only, badges, etc.)
+
+> Tip: Keep the **Active**, **Startup**, and **Closed** sections sorted by **Est. year** (ascending).
+
+---
+
+## Submission Template
+Copy this line into the appropriate table in `Domain-Name-Forums-list.md`:
+
+```markdown
+| Forum Name | [example.com](https://example.com) | 2007 | Market / Language / Focus | Notes or badges |
+
+---
+
 | DNForum | [dnforum.com](https://www.dnforum.com/) | 2001 | General | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
-| ConsultDomain.de | [consultdomain.de](https://www.consultdomain.de/) | 2001 | German-speaking market (Germany, Austria, Switzerland) | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
-| NamePros | [namepros.com](https://www.namepros.com/) | 2002 | General | Owners unknown – Sr. Sales: Brian Harbin, Grit.org |
-| Acorn Domains | [acorndomains.co.uk](https://www.acorndomains.co.uk/) | 2004 | UK market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
-| Nameslot | [nameslot.com](https://www.nameslot.com) | 2004 | .com market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
-| Di.pl – Domeny Internetowe | [di.pl](https://di.pl/) | 2005 | Polish market (.pl) | |
-| Demene | [demene.com](https://www.demene.com/) | 2006 | Spanish-language market | |
+| Di.pl – Domeny Internetowe | [di.pl](https://di.pl/) | 2005 | Polish market (.pl) |  |
 | Domain Boardroom (DBR) | [domainboardroom.com](https://domainboardroom.com/) | 2007 | Private pro community | Invite-only |
-| IDNForums | [idnforums.com](https://www.idnforums.com/) | 2007 | Internationalized Domain Names (IDNs) | |
-| INForum | [inforum.in](https://www.inforum.in/) | 2007 | Indian market | .. |
-| DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | Australian market | Part of Trillion family |
-| ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | French market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
-| DN.ca | [dn.ca](https://dn.ca/) | 2020 | Canadian market | Owner: Frank (MapleDots) |
-| 27.be | [27.be](https://www.27.be) | 2020 | Belgium / European market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
-
----
-
-## Empty Startup Forums
-
-| Forum | URL | Est. | Specialization | Notes |
-|-------|-----|-----|----------------|-------|
-| DomainForum.ro | [domainforum.ro](https://www.domainforum.ro) | 2024 | Romanian market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
-
----
-
-## Dead / Closed Forums (not resolving)
-
-| Forum | URL | Est. | Specialization | Notes |
-|-------|-----|-----|----------------|-------|
-| Domain Social | [domainsocial.com](http://domainsocial.com/) | 2006 | General | Closed |
-
----
-
-## Contributing
-
-Contributions are welcome! 🙌  
-
-If you know of a **domain name forum** that is missing from this list, feel free to:  
-1. **Open an Issue** with the forum details, or  
-2. **Submit a Pull Request** adding the forum to the correct section (Active, Startup, or Closed).  
-
-Please make sure to include:  
-- Forum name  
-- URL  
-- Established year (if known)  
-- Market / specialization (if any)  
-- Notes (e.g., ownership, status, or other relevant info)  
-
-Together we can keep this list up to date and useful for the domain name community. 🌍  
-
----
-
-## License
-
-This project is licensed under the **MIT License** – you are free to use, share, and adapt the content with attribution.
