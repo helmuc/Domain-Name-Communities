@@ -30,6 +30,7 @@ This repo focuses on **forums** (message-board style communities). Marketplaces,
 
 Lists in the full file are split into:
 - **Active Forums** – currently running communities
+- **Brand/Corporate Forums** - forums owned by brands/companies/registrars etc
 - **Empty Startup Forums** – new forums with minimal activity
 - **Dead / Closed Forums** – no longer resolving or inactive
 
