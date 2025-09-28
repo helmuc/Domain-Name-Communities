@@ -58,7 +58,7 @@ The list is sorted by **established date** and divided into three categories:
 
 | Forum | URL | Est. | Founder | Owner | Specialization | Notes |
 |-------|-----|-----|-----|-----|----------------|-------|
-| DomainForum.ro | [domainforum.ro](https://www.domainforum.ro) | 2024 | Helmuts Meskois | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | Romanian market | .. |
+| DomainForum.ro | [domainforum.ro](https://www.domainforum.ro) | 2024 | Helmuts Meskonis | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | Romanian market | .. |
 
 ---
 
