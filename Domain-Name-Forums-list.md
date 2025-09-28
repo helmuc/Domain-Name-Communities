@@ -13,7 +13,8 @@ This repository contains a curated list of **domain name forums** from around th
 These communities bring together **domain investors, registrars, registries, brokers, developers, and entrepreneurs** to discuss domain names, share industry knowledge, and trade digital assets.  
 
 The list is sorted by **established date** and divided into three categories:
-- **Active Forums** – currently running communities  
+- **Active Forums** – currently running communities
+- **Registrar/Brand/Corporate Community Forums** - forums that are run by companies un their own subdomains (mostly registrars)
 - **Empty Startup Forums** – newly created forums with little to no activity yet  
 - **Dead / Closed Forums** – forums that no longer resolve or are inactive  
 
@@ -44,7 +45,7 @@ The list is sorted by **established date** and divided into three categories:
 
 ---
 
-## Brand/Corporate Forums
+## Registrar/Brand/Corporate Community Forums
 
 | Forum | URL | Est. | Specialization | Notes |
 |-------|-----|-----|----------------|-------|
