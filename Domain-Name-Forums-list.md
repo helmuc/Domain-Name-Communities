@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-23-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-24-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -33,7 +33,7 @@ The list is sorted by **established date** and divided into three categories:
 | Nameslot | [nameslot.com](https://www.nameslot.com) | 2004 | .com market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 | Di.pl – Domeny Internetowe | [di.pl](https://di.pl/) | 2005 | Polish market (.pl) | |
 | Demene | [demene.com](https://www.demene.com/) | 2006 | Spanish-language market | |
-| Domain Boardroom (DBR) | [domainboardroom.com](https://domainboardroom.com/) | 2007 | Private pro community | Invite-only |
+| Domain Boardroom (DBR) | [domainboardroom.com](https://domainboardroom.com/) | 2007 by Donna Mahony | Private pro community | Invite-only / threads not indexed by Google & available to view only members |
 | IDNForums | [idnforums.com](https://www.idnforums.com/) | 2007 | Internationalized Domain Names (IDNs) | |
 | INForum | [inforum.in](https://www.inforum.in/) | 2007 | Indian market | .. |
 | DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | Australian market | Part of Trillion family |
@@ -42,6 +42,7 @@ The list is sorted by **established date** and divided into three categories:
 | DN.ca | [dn.ca](https://dn.ca/) | 2020 | Canadian market | Owner: Frank (MapleDots) |
 | Domainfragen.de | [Domainfragen.d](https://domainfragen.de/) | 2020 | Ownership: EliteDomains.de (marketplace) | 
 | 27.be | [27.be](https://www.27.be) | 2020 | Belgium / European market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
+| 4m.uk | [4m.uk](https://4m.uk/) | 2024 | UK domainers | Owned by DomainLore.uk (drop catchers and marketplace) |
 
 ---
 
