@@ -50,7 +50,7 @@ The list is sorted by **established date** and divided into three categories:
 
 | Forum | URL | Est. | Specialization | Notes |
 |---|---|---|---|---|
-| Dynadot Community | [dynadot.com/forums](https://www.dynadot.com/forums) | — | Official Dynadot user community | Ownership: Dynadot |
+| Dynadot Community | [dynadot.com/forums](https://www.dynadot.com/forums) | 2013 | Official Dynadot user community | Ownership: Dynadot |
 
 ---
 
