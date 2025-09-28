@@ -42,7 +42,7 @@ The list is sorted by **established date** and divided into three categories:
 | DN.ca | [dn.ca](https://dn.ca/) | 2020 | Frank (Mardin?) AKA MapleDots | Frank (Mardin?) AKA MapleDots | Canadian market | Owner: Frank (MapleDots) |
 | Domainfragen.de | [Domainfragen.d](https://domainfragen.de/) | 2020 | EliteDomains.de | EliteDomains.de | Ownership: EliteDomains.de (marketplace) | 
 | 27.be | [27.be](https://www.27.be) | 2020 | Helmuts Meskonis | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | Belgium / European market | .. |
-| 4m.uk | [4m.uk](https://4m.uk/) | 2024 | Denys Ostashko | Denys Ostashko | UK domainers | The legal entity behind the site is Domainlore LLC (listed by Nominet as the registrar “DOMAINLORE”) = DomainLore.uk (UK drop catchers and marketplace) |
+| 4m.uk | [4m.uk](https://4m.uk/) | 2024 | Denys Ostashko | Denys Ostashko | UK domainers | Denys runs DomainLore.uk (UK drop catchers and marketplace) |
 
 ---
 
