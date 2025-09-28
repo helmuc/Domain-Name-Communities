@@ -79,7 +79,7 @@ We’d love your help keeping this list accurate and complete!
 
 **Ways to contribute**
 - **Open a Discussion** (best for suggestions & questions):  
-  https://github.com/helmuc/Domain-Name-Communities/discussions
+  https://github.com/helmuc/Domain-Name-Communities/discussions or https://www.dnforum.com/threads/working-on-domain-forum-list-do-you-see-something-that-is-not-correct-or-have-information-on-missing-forums-owners-founders-or-more-here.623768/
 - **Submit a Pull Request** (best for direct edits to the lists):  
   Edit `README.md` or `Domain-Name-Forums-list.md`
 - **File an Issue** (best for problems/bugs/typos):  
