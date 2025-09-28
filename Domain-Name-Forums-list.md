@@ -64,7 +64,7 @@ The list is sorted by **established date** and divided into three categories:
 
 ## Dead & Closed Forums (both: not resolving and resolving with landing pages)
 
-| Forum | URL | Est. | Specialization | Notes |
+| Forum | URL | Est. | Founder | Owner | Specialization | Notes |
 |-------|-----|-----|-----|-----|----------------|-------|
 | Domain Social | [domainsocial.com](http://domainsocial.com/) | 2006 | .. | .. | General | Closed |
 | Zunmi.cn | [Zunmi.cn](https://zunmi.cn/) | 2009 | .. | .. | Chinese domain forum that was focused on parking | Closed |
