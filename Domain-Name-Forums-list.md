@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-20-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-22-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -37,6 +37,7 @@ The list is sorted by **established date** and divided into three categories:
 | INForum | [inforum.in](https://www.inforum.in/) | 2007 | Indian market | .. |
 | DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | Australian market | Part of Trillion family |
 | ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | French market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
+| Club.domain.cn | [Club.domain.cn](https://club.domain.cn/forum.php) | 2011 | Chinese Domain Forum | Operated by: operates under Yijie Group (易介集团) / China VIP Group (中国贵宾集团) |
 | DN.ca | [dn.ca](https://dn.ca/) | 2020 | Canadian market | Owner: Frank (MapleDots) |
 | Domainfragen.de | [Domainfragen.d](https://domainfragen.de/) | 2020 | Ownership: EliteDomains.de (marketplace) | 
 | 27.be | [27.be](https://www.27.be) | 2020 | Belgium / European market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
@@ -59,11 +60,13 @@ The list is sorted by **established date** and divided into three categories:
 
 ---
 
-## Dead / Closed Forums (not resolving)
+## Dead & Closed Forums (both: not resolving and resolving with landing pages)
 
 | Forum | URL | Est. | Specialization | Notes |
 |-------|-----|-----|----------------|-------|
 | Domain Social | [domainsocial.com](http://domainsocial.com/) | 2006 | General | Closed |
+| Zunmi.cn | [Zunmi.cn](https://zunmi.cn/) | 2009 | Chinese domain forum that was focused on parking | Closed |
+| Club.22.cn/forum.php | [Club.22.cn/forum.php](https://Club.22.cn/forum.php) | 2014 | Chinese domainer forum focused on domain trading | by 22.cn / not resolving |
 
 ---
 
