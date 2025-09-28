@@ -35,7 +35,7 @@ The list is sorted by **established date** and divided into three categories:
 | Demene | [demene.com](https://www.demene.com/) | 2006 | — | — | Spanish-language market | — |
 | Domain Boardroom (DBR) | [domainboardroom.com](https://domainboardroom.com/) | 2007 | Donna Mahony | DomainAgents | Private pro community | Invite-only; not indexed by Google; viewable by members only / DomainAgents acquired it on Apr 7, 2022 |
 | IDNForums | [idnforums.com](https://www.idnforums.com/) | 2007 | David Wrixon (co-founder) | — | Internationalized Domain Names (IDNs) | — |
-| INForum | [inforum.in](https://www.inforum.in/) | 2007 | Jeffrey (“Jeff”) Behrendt | Jeffrey (“Jeff”) Behrendt | Indian market | — |
+| INForum | [inforum.in](https://www.inforum.in/) | 2007 | Jeffrey (“Jeff”) Behrendt [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/jeffreybehrendt/) | Jeffrey (“Jeff”) Behrendt | Indian market | — |
 | DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | Michael Sojevic [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/michaelsojevic) | Trillion | Australian market | Michael Sojevic ran it from 2008 - April 2011 |
 | ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | account [inonuffin](https://www.forumndd.com/members/inonuffin.46/) | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | French market | Acquired by me (Helmuts Meskonis) in September 2025 |
 | club.domain.cn | [club.domain.cn/forum.php](https://club.domain.cn/forum.php) | 2011 | — | Yijie Group (易介集团) / China VIP Group (中国贵宾集团) | Chinese domain forum | — |
