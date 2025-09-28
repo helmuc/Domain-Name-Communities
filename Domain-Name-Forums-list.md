@@ -39,7 +39,7 @@ The list is sorted by **established date** and divided into three categories:
 | DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | — | Trillion | Australian market | Part of Trillion family |
 | ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | account [inonuffin](https://www.forumndd.com/members/inonuffin.46/) | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | French market | Acquired by me (Helmuts Meskonis) in September 2025 |
 | club.domain.cn | [club.domain.cn/forum.php](https://club.domain.cn/forum.php) | 2011 | — | Yijie Group (易介集团) / China VIP Group (中国贵宾集团) | Chinese domain forum | — |
-| DN.ca | [dn.ca](https://dn.ca/) | 2020 | Frank (“MapleDots”) | Frank (“MapleDots”) | Canadian market | — |
+| DN.ca | [dn.ca](https://dn.ca/) | 2020 | Frank Mardian [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/frank-mardian-68a2092b9/) | Frank Mardian (@MapleDots) | Canadian market | — |
 | domainfragen.de | [domainfragen.de](https://domainfragen.de/) | 2020 | — | Felix Goldstein [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/felix-goldstein-3623293/)
  | German domainer forum | Ownership: EliteDomains.de (marketplace) |
 | 27.be | [27.be](https://www.27.be) | 2020 | Helmuts Meskonis | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | Belgium / European market | - |
