@@ -2,6 +2,8 @@ A repositary where I keep lists of domain name forums, social groups and communi
 
 👉 **Domain Name Forums:** [`Domain-Name-Forums-list.md`](Domain-Name-Forums-list.md)
 
+👉 **Domain Name Categories at Popular Forums:** [Domain-Name-Categories-at-Popular-Forums.md](https://github.com/helmuc/Domain-Name-Communities/blob/main/Domain-Name-Categories-at-Popular-Forums.md)
+
 ---
 
 ## About
