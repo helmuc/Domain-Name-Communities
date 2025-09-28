@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-22-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-23-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -68,6 +68,7 @@ The list is sorted by **established date** and divided into three categories:
 | Domain Social | [domainsocial.com](http://domainsocial.com/) | 2006 | General | Closed |
 | Zunmi.cn | [Zunmi.cn](https://zunmi.cn/) | 2009 | Chinese domain forum that was focused on parking | Closed |
 | Club.22.cn/forum.php | [Club.22.cn/forum.php](https://Club.22.cn/forum.php) | 2014 | Chinese domainer forum focused on domain trading | by 22.cn / not resolving |
+| West.cn/club/forum.php | [West.cn/club/forum.php](https://West.cn/club/forum.php) | 2016 | Chinese domain forum by West.cn | Closed in 2017 |
 
 ---
 
