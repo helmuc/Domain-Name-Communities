@@ -9,7 +9,7 @@
 
 ---
 
-This repository contains a curated list of **domain name forums** from around the world.  
+This repository contains a list personally curated by me (Helmuts Meskonis) of **domain name forums** from around the world.  
 These communities bring together **domain investors, registrars, registries, brokers, developers, and entrepreneurs** to discuss domain names, share industry knowledge, and trade digital assets.  
 
 The list is sorted by **established date** and divided into three categories:
@@ -27,13 +27,13 @@ The list is sorted by **established date** and divided into three categories:
 | Dodong.com | [dodong.com](http://www.dodong.com/) | 2000 | — | — | Korean domain forum | HTTP only (no HTTPS) |
 | DNForum | [dnforum.com](https://www.dnforum.com/) | 2001 | Dan Gessler | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | General | Earlier owners included Greg Ricks then Adam Dicker; later sold by Epik; acquired by Ryan Ewen in early 2023 and then in April 2023 by me (Helmuts Meskonis) |
 | ConsultDomain.de | [consultdomain.de](https://www.consultdomain.de/) | 2001 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | German-speaking (DE/AT/CH) | - |
-| NamePros | [namepros.com](https://www.namepros.com/) | 2002 | — | — | General | — |
+| NamePros | [namepros.com](https://www.namepros.com/) | 2003 | Ron James | Private investor | General | — |
 | Domeinforum.nl | [domeinforum.nl](https://www.domeinforum.nl/) | 2003 | — | — | Dutch domainer community | — |
 | Acorn Domains | [acorndomains.co.uk](https://www.acorndomains.co.uk/) | 2004 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | UK market | Acquired by me (Helmuts Meskonis) in April 2023 |
 | Nameslot | [nameslot.com](https://www.nameslot.com) | 2004 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | .com market | Acquired by me (Helmuts Meskonis) in May 2025 |
 | Di.pl – Domeny Internetowe | [di.pl](https://di.pl/) | 2005 | — | — | Polish market (.pl) | — |
 | Demene | [demene.com](https://www.demene.com/) | 2006 | — | — | Spanish-language market | — |
-| Domain Boardroom (DBR) | [domainboardroom.com](https://domainboardroom.com/) | 2007 | Donna Mahony | — | Private pro community | Invite-only; not indexed by Google; viewable by members only |
+| Domain Boardroom (DBR) | [domainboardroom.com](https://domainboardroom.com/) | 2007 | Donna Mahony | DomainAgents | Private pro community | Invite-only; not indexed by Google; viewable by members only / DomainAgents acquired it on Apr 7, 2022 |
 | IDNForums | [idnforums.com](https://www.idnforums.com/) | 2007 | — | — | Internationalized Domain Names (IDNs) | — |
 | INForum | [inforum.in](https://www.inforum.in/) | 2007 | — | — | Indian market | — |
 | DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | — | Trillion | Australian market | Part of Trillion family |
