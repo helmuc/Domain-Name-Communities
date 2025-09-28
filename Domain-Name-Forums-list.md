@@ -25,9 +25,11 @@ The list is sorted by **established date** and divided into three categories:
 | Forum | URL | Est. | Founder | Owner | Specialization | Notes |
 |---|---|---|---|---|---|---|
 | Dodong.com | [dodong.com](http://www.dodong.com/) | 2000 | — | — | Korean domain forum | HTTP only (no HTTPS) |
-| DNForum | [dnforum.com](https://www.dnforum.com/) | 2001 | Dan Gessler | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | General | Owner history: Greg Ricks (since 2002 or 2003); then Adam Dicker; in Feb 2018 to Oliver Hoger, John Nguyen & Lars Lima [ref](https://www.dnforum.com/threads/dnforum-com-under-new-ownership-who-are-we-and-what-do-we-want.558613/); on July 2, 2021 sold to Epik; then Ryan Ewen in early 2023; and, finally, in April 2023 by me (Helmuts Meskonis) |
+| DNForum | [dnforum.com](https://www.dnforum.com/) | 2001 | Dan Gessler [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/dangessler/)
+ | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | General | Owner history: Greg Ricks (since 2002 or 2003); then Adam Dicker; in Feb 2018 to Oliver Hoger, John Nguyen & Lars Lima [ref](https://www.dnforum.com/threads/dnforum-com-under-new-ownership-who-are-we-and-what-do-we-want.558613/); on July 2, 2021 sold to Epik; then Ryan Ewen in early 2023; and, finally, in April 2023 by me (Helmuts Meskonis) |
 | ConsultDomain.de | [consultdomain.de](https://www.consultdomain.de/) | 2001 | Markus Schnermann [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/keyworddomains/) | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | German-speaking (DE/AT/CH) | Was closed in 2019. Acquired by me (Helmuts Meskonis) in October 2024 with help of Frederick "Freddy" Schiwek |
-| NamePros | [namepros.com](https://www.namepros.com/) | 2003 | Ron James | Private investor | General | — |
+| NamePros | [namepros.com](https://www.namepros.com/) | 2003 | Ronald James [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/ronaldjames/)
+ | Private investor | General | — |
 | Domeinforum.nl | [domeinforum.nl](https://www.domeinforum.nl/) | 2003 | — | — | Dutch domainer community | — |
 | Acorn Domains | [acorndomains.co.uk](https://www.acorndomains.co.uk/) | 2004 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | UK market | Acquired by me (Helmuts Meskonis) in April 2023 |
 | Nameslot | [nameslot.com](https://www.nameslot.com) | 2004 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | .com market | Acquired by me (Helmuts Meskonis) in May 2025 |
@@ -40,7 +42,8 @@ The list is sorted by **established date** and divided into three categories:
 | ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | French market | Acquired by me (Helmuts Meskonis) in September 2025 |
 | club.domain.cn | [club.domain.cn/forum.php](https://club.domain.cn/forum.php) | 2011 | — | Yijie Group (易介集团) / China VIP Group (中国贵宾集团) | Chinese domain forum | — |
 | DN.ca | [dn.ca](https://dn.ca/) | 2020 | Frank (“MapleDots”) | Frank (“MapleDots”) | Canadian market | — |
-| domainfragen.de | [domainfragen.de](https://domainfragen.de/) | 2020 | — | EliteDomains.de | German domainer forum | Ownership: EliteDomains.de (marketplace) |
+| domainfragen.de | [domainfragen.de](https://domainfragen.de/) | 2020 | — | Felix Goldstein [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/felix-goldstein-3623293/)
+ | German domainer forum | Ownership: EliteDomains.de (marketplace) |
 | 27.be | [27.be](https://www.27.be) | 2020 | Helmuts Meskonis | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | Belgium / European market | - |
 | 4m.uk | [4m.uk](https://4m.uk/) | 2024 | Denys Ostashko | Denys Ostashko | UK domainer forum | Related: DomainLore.uk |
 
