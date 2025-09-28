@@ -25,7 +25,7 @@ The list is sorted by **established date** and divided into three categories:
 | Forum | URL | Est. | Founder | Owner | Specialization | Notes |
 |---|---|---|---|---|---|---|
 | Dodong.com | [dodong.com](http://www.dodong.com/) | 2000 | — | — | Korean domain forum | HTTP only (no HTTPS) |
-| DNForum | [dnforum.com](https://www.dnforum.com/) | 2001 | Dan Gessler | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | General | Earlier owners included Greg Ricks then Adam Dicker; later sold by Epik; acquired by Ryan Ewen in early 2023 and then in April 2023 by me (Helmuts Meskonis) |
+| DNForum | [dnforum.com](https://www.dnforum.com/) | 2001 | Dan Gessler | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | General | Owner history: Greg Ricks (since 2002 or 2003); then Adam Dicker; in Feb 2018 to Oliver Hoger, John Nguyen & Lars Lima [ref](https://www.dnforum.com/threads/dnforum-com-under-new-ownership-who-are-we-and-what-do-we-want.558613/); on July 2, 2021 sold to Epik; then Ryan Ewen in early 2023; and, finally, in April 2023 by me (Helmuts Meskonis) |
 | ConsultDomain.de | [consultdomain.de](https://www.consultdomain.de/) | 2001 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | German-speaking (DE/AT/CH) | - |
 | NamePros | [namepros.com](https://www.namepros.com/) | 2003 | Ron James | Private investor | General | — |
 | Domeinforum.nl | [domeinforum.nl](https://www.domeinforum.nl/) | 2003 | — | — | Dutch domainer community | — |
