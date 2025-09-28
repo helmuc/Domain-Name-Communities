@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-17-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-20-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -23,9 +23,11 @@ The list is sorted by **established date** and divided into three categories:
 
 | Forum | URL | Est. | Specialization | Notes |
 |-------|-----|-----|----------------|-------|
+| Dodong.com | [Dodong.com](http://www.dodong.com/) | 2000 | Korean Domain forum | Yes, currently only on http - strange |
 | DNForum | [dnforum.com](https://www.dnforum.com/) | 2001 | General | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 | ConsultDomain.de | [consultdomain.de](https://www.consultdomain.de/) | 2001 | German-speaking market (Germany, Austria, Switzerland) | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 | NamePros | [namepros.com](https://www.namepros.com/) | 2002 | General | Owners unknown – Sr. Sales: Brian Harbin, Grit.org |
+| Domeinforum.nl | [Domeinforum.nl](https://www.domeinforum.nl/) | Dutch domainer community | Ignore absence of new posts - quality eyeballs |
 | Acorn Domains | [acorndomains.co.uk](https://www.acorndomains.co.uk/) | 2004 | UK market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 | Nameslot | [nameslot.com](https://www.nameslot.com) | 2004 | .com market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 | Di.pl – Domeny Internetowe | [di.pl](https://di.pl/) | 2005 | Polish market (.pl) | |
@@ -36,6 +38,7 @@ The list is sorted by **established date** and divided into three categories:
 | DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | Australian market | Part of Trillion family |
 | ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | French market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 | DN.ca | [dn.ca](https://dn.ca/) | 2020 | Canadian market | Owner: Frank (MapleDots) |
+| Domainfragen.de | [Domainfragen.d](https://domainfragen.de/) | 2020 | Ownership: EliteDomains.de (marketplace) | 
 | 27.be | [27.be](https://www.27.be) | 2020 | Belgium / European market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
 
 ---
