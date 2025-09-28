@@ -37,7 +37,7 @@ The list is sorted by **established date** and divided into three categories:
 | IDNForums | [idnforums.com](https://www.idnforums.com/) | 2007 | — | — | Internationalized Domain Names (IDNs) | — |
 | INForum | [inforum.in](https://www.inforum.in/) | 2007 | — | — | Indian market | — |
 | DNTrade | [dntrade.com.au](https://dntrade.com.au/) | 2008 | — | Trillion | Australian market | Part of Trillion family |
-| ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | French market | - |
+| ForumNDD | [forumndd.com](https://www.forumndd.com/) | 2008 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | French market | Acquired by me (Helmuts Meskonis) in September 2025 |
 | club.domain.cn | [club.domain.cn/forum.php](https://club.domain.cn/forum.php) | 2011 | — | Yijie Group (易介集团) / China VIP Group (中国贵宾集团) | Chinese domain forum | — |
 | DN.ca | [dn.ca](https://dn.ca/) | 2020 | Frank (“MapleDots”) | Frank (“MapleDots”) | Canadian market | — |
 | domainfragen.de | [domainfragen.de](https://domainfragen.de/) | 2020 | — | EliteDomains.de | German domainer forum | Ownership: EliteDomains.de (marketplace) |
