@@ -94,10 +94,6 @@ We’d love your help keeping this list accurate and complete!
 - **Specialization** (e.g., market/ccTLD/language/focus)  
 - **Notes** (neutral facts only; e.g., invite-only, archived, ownership changes)  
 
-**Submission template (copy into PR/Discussion)**
-```markdown
-| Forum Name | [example.com](https://example.com) | 2007 | Founder Name | Owner Entity | Market / Language / Focus | Notes |
-
 Together we can keep this list up to date and useful for the domain name community. 🌍  
 
 ---
