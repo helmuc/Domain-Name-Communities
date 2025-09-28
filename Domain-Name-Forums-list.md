@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-25-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-26-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -67,6 +67,7 @@ The list is sorted by **established date** and divided into three categories:
 | Forum | URL | Est. | Founder | Owner | Specialization | Notes |
 |---|---|---|---|---|---|---|
 | Domain Social | [domainsocial.com](https://domainsocial.com/) | 2006 | — | — | General | Closed |
+| DNTalks | [dntalks.com](https://www.dntalks.com) | 2007 | — | Randall, of Hostix from 2013 | - | Closed in 2013 |
 | zunmi.cn | [zunmi.cn](https://zunmi.cn/) | 2009 | — | — | Chinese domain forum focused on parking | Closed |
 | club.22.cn | [club.22.cn/forum.php](https://club.22.cn/forum.php) | 2014 | — | — | Chinese domainer forum focused on domain trading | Not resolving |
 | west.cn | [west.cn/club/forum.php](https://west.cn/club/forum.php) | 2016 | — | — | Chinese domain forum by West.cn | Closed in 2017 |
