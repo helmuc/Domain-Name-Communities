@@ -15,7 +15,7 @@ Curated list of **popular forum categories** dedicated to domain names. These ar
 | Web Hosting Talk | [Domains](https://www.webhostingtalk.com/forumdisplay.php?f=35) | Dedicated domain section within a major hosting forum; discusses registration, DNS, appraisals, and reselling. |
 | Reddit | [r/Domains](https://www.reddit.com/r/Domains/) | Busy subreddit for domain investing tips, registrar advice, and sales threads; casual and accessible. |
 | Digital Point | [Domains](https://forums.digitalpoint.com/forums/domains.30/) | SEO & web dev forum with a strong domains subforum; focuses on monetization, flipping, and marketplaces. |
-| BlackHatWorld | [Domains](https://www.blackhatworld.com/forums/domains.42/) | High-engagement community with niche sales and tactics; discussions can include experimental/gray-hat strategies. |
+| BlackHatWorld | [Domains](https://www.blackhatworld.com/forums/domain-names-parking.53/) | High-engagement community with niche sales and tactics; discussions will include gray/black-hat strategies. |
 | SitePoint Forums | [Domains](https://www.sitepoint.com/community/c/domains/) | Web dev forum covering domain strategy and tech TLDs (e.g., .io, .ai); branding and dev-centric angles. |
 | LowEndTalk | [Domains](https://lowendtalk.com/discussions/domains/) | Budget hosting community with domain bargaining, cheap reg tips, and registrar deal chatter. |
 
