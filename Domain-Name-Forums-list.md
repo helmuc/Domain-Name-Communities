@@ -12,7 +12,7 @@
 This repository contains a list personally curated by me - Helmuts Meskonis [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/helmutsmeskonis/) of **domain name forums** from around the world.  
 These communities bring together **domain investors, registrars, registries, brokers, developers, and entrepreneurs** to discuss domain names, share industry knowledge, and trade digital assets.  
 
-The list is sorted by **established date** and divided into three categories:
+The list is sorted by **established date** and divided into these categories:
 - **Active Forums** – currently running communities
 - **Registrar/Brand/Corporate Community Forums** – forums that are run by companies on their own subdomains (mostly registrars)
 - **Empty Startup Forums** – newly created forums with little to no activity yet  
