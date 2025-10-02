@@ -20,7 +20,7 @@ The list is sorted by **established date** and divided into these categories:
 
 ---
 
-## Active Forums
+## Active Domain Name Forums
 
 | Forum | URL | Est. | Founder | Owner | Specialization | Notes |
 |---|---|---|---|---|---|---|
@@ -67,12 +67,12 @@ The list is sorted by **established date** and divided into these categories:
 
 | Platform | Category (Link) | Focus / Description |
 |---|---|---|
-| Web Hosting Talk | [Domains](https://www.webhostingtalk.com/forumdisplay.php?f=35) | Dedicated domain section within a major hosting forum; discusses registration, DNS, appraisals, and reselling. |
+| Web Hosting Talk | [webhostingtalk.com/forumdisplay.php?f=35/](https://www.webhostingtalk.com/forumdisplay.php?f=35) | Dedicated domain section within a major hosting forum; discusses registration, DNS, appraisals, and reselling. |
 | Reddit | [r/Domains](https://www.reddit.com/r/Domains/) | Busy subreddit for domain investing tips, registrar advice, and sales threads; casual and accessible. |
-| Digital Point | [Domains](https://forums.digitalpoint.com/forums/domain-names.45/) | SEO & web dev forum with a strong domains subforum; focuses on monetization, flipping, and marketplaces. |
-| BlackHatWorld | [Domains](https://www.blackhatworld.com/forums/domain-names-parking.53/) | High-engagement community with niche sales and tactics; discussions will include gray/black-hat strategies. |
-| SitePoint Forums | [Domains](https://www.sitepoint.com/community/c/domains/) | Web dev forum covering domain strategy and tech TLDs (e.g., .io, .ai); branding and dev-centric angles. |
-| LowEndTalk | [Domains](https://lowendtalk.com/categories/domains/) | Budget hosting community with domain bargaining, cheap reg tips, and registrar deal chatter. |
+| Digital Point | [forums.digitalpoint.com/forums/domain-names.45/](https://forums.digitalpoint.com/forums/domain-names.45/) | SEO & web dev forum with a strong domains subforum; focuses on monetization, flipping, and marketplaces. |
+| BlackHatWorld | [blackhatworld.com/forums/domain-names-parking.53/](https://www.blackhatworld.com/forums/domain-names-parking.53/) | High-engagement community with niche sales and tactics; discussions will include gray/black-hat strategies. |
+| SitePoint Forums | [sitepoint.com/community/c/domains/](https://www.sitepoint.com/community/c/domains/) | Web dev forum covering domain strategy and tech TLDs (e.g., .io, .ai); branding and dev-centric angles. |
+| LowEndTalk | [lowendtalk.com/categories/domains/](https://lowendtalk.com/categories/domains/) | Budget hosting community with domain bargaining, cheap reg tips, and registrar deal chatter. |
 
 ---
 
