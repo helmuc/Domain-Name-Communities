@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-26-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-27-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -32,6 +32,7 @@ The list is sorted by **established date** and divided into these categories:
 | Acorn Domains | [acorndomains.co.uk](https://www.acorndomains.co.uk/) | 2004 | Alan | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | UK market | Acquired by me (Helmuts Meskonis) in April 2023 |
 | Nameslot | [nameslot.com](https://www.nameslot.com) | 2004 | — | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | .com market | Acquired by me (Helmuts Meskonis) in May 2025 |
 | Di.pl – Domeny Internetowe | [di.pl](https://di.pl/) | 2005 | user: apze | — | Polish market (.pl) | — |
+| DomenForum.net | [domenforum.net](https://www.domenforum.net/) | 2005 | — | MaulNet from February 2009 | Russian speaking domain forum | The forum was sold to “MaulNet” (a well-known RuNet webmaster/community brand) in February 2009. Contemporary reports pegged the sale to MaulNet and mentioned a ~$20k price. |
 | Demene | [demene.com](https://www.demene.com/) | 2006 | — | — | Spanish-language market | — |
 | Domain Boardroom (DBR) | [domainboardroom.com](https://domainboardroom.com/) | 2007 | Donna Mahony | DomainAgents | Private pro community | Invite-only; not indexed by Google; viewable by members only / DomainAgents acquired it on Apr 7, 2022 |
 | IDNForums | [idnforums.com](https://www.idnforums.com/) | 2007 | David Wrixon (co-founder) | — | Internationalized Domain Names (IDNs) | — |
