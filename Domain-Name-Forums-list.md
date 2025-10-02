@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-28-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-34-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -60,6 +60,19 @@ The list is sorted by **established date** and divided into these categories:
 | Forum | URL | Est. | Founder | Owner | Specialization | Notes |
 |---|---|---|---|---|---|---|
 | DomainForum.ro | [domainforum.ro](https://www.domainforum.ro) | 2024 | Helmuts Meskonis [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/helmutsmeskonis/) | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | Romanian market | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) |
+
+---
+
+## Domain name Sections/Categories at popular Forums
+
+| Platform | Category (Link) | Focus / Description |
+|---|---|---|
+| Web Hosting Talk | [Domains](https://www.webhostingtalk.com/forumdisplay.php?f=35) | Dedicated domain section within a major hosting forum; discusses registration, DNS, appraisals, and reselling. |
+| Reddit | [r/Domains](https://www.reddit.com/r/Domains/) | Busy subreddit for domain investing tips, registrar advice, and sales threads; casual and accessible. |
+| Digital Point | [Domains](https://forums.digitalpoint.com/forums/domain-names.45/) | SEO & web dev forum with a strong domains subforum; focuses on monetization, flipping, and marketplaces. |
+| BlackHatWorld | [Domains](https://www.blackhatworld.com/forums/domain-names-parking.53/) | High-engagement community with niche sales and tactics; discussions will include gray/black-hat strategies. |
+| SitePoint Forums | [Domains](https://www.sitepoint.com/community/c/domains/) | Web dev forum covering domain strategy and tech TLDs (e.g., .io, .ai); branding and dev-centric angles. |
+| LowEndTalk | [Domains](https://lowendtalk.com/categories/domains/) | Budget hosting community with domain bargaining, cheap reg tips, and registrar deal chatter. |
 
 ---
 
