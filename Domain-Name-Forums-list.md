@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-![Forums Listed](https://img.shields.io/badge/Forums%20Listed-34-blue)  
+![Forums Listed](https://img.shields.io/badge/Forums%20Listed-35-blue)  
 ![Last Update](https://img.shields.io/badge/Last%20Update-September%202025-brightgreen)  
 ![Status](https://img.shields.io/badge/Status-Active-yellow)  
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success)  
@@ -44,6 +44,7 @@ The list is sorted by **established date** and divided into these categories:
 | Domain Fragen | [domainfragen.de](https://domainfragen.de/) | 2020 | Felix Goldstein [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/felix-goldstein-3623293/) | Felix Goldstein | German domainer forum | Ownership: EliteDomains.de (marketplace) |
 | 27.be | [27.be](https://www.27.be) | 2020 | Helmuts Meskonis [![in](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/helmutsmeskonis/) | ![No Stress Ltd Family](https://img.shields.io/badge/Forum%20Family-No%20Stress%20Ltd-purple) | Belgium / European market | - |
 | 4m.uk | [4m.uk](https://4m.uk/) | 2024 | Denys Ostashko | Denys Ostashko | UK domainer forum | Related: DomainLore.uk |
+| NameCup | [namecup.com](https://www.namecup.com) | 2025 | - | - | General domainer forum | - |
 
 ---
 
